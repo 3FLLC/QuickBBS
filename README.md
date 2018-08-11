@@ -12,15 +12,16 @@ QuickBBS v3.0 - Multiline Server Edition (TCP Only)
 * Can run on a system as small as a Raspberry Pi, or any desktop or laptop
 
 ## QuickBBS 3.0 is available in multiple licenses (visual):
-4 Node + Local ~ FREE
-9 Node + Local ~ $49.00
-25 Node + Local ~ $99.00
+    4 Node + Local ~ FREE
+    9 Node + Local ~ $49.00
+    25 Node + Local ~ $99.00
 
 ## QuickBBS 3.0 is available in Daemon/Service (non-visual):
 * Robust Hardware Suggested
-1,000 Node ~ $249.00
-5,000 Node ~ $999.00
-Unlimited Nodes ~ $1999.00 (During Stress Test, handled 50,000+ users)
+
+      1,000 Node ~ $249.00
+      5,000 Node ~ $999.00
+      Unlimited Nodes ~ $1999.00 (During Stress Test, handled 50,000+ users)
 
 ### FIDONET TECHNOLOGY ###
 * Supports 320,000 Dupe-Key Filter per Echo
